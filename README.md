@@ -6,6 +6,7 @@ I am a beginner freelancer Data Engineer building practical skills in data engin
 My goal is to develop the ability to design, build, test and maintain reliable data pipelines for real-world use cases.
 
 Learning Approach
+
 - Follow DataDriven 75 as my core learning roadmap.
 - Learn in small, manageable steps.
 - Practice each concept through code and hands-on exercises.
@@ -14,8 +15,9 @@ Learning Approach
 - Track progress with Git commits and working project.
 
 Core Skills
-SQL: Querying, joins, CTEs, window functions and query optimization.
-Python: Data processing, APIs, file handling, and database integration.
-Data Modeling: Relational modeling, dimensional modeling, and data warehouse design.
-Apache Spark: DataFrame operations, distributed processing, and performance fundamentals.
-Pipeline Architecture: Data ingestion, transformation, orchestration, testing, and monitoring.
+
+- SQL: Querying, joins, CTEs, window functions and query optimization.
+- Python: Data processing, APIs, file handling, and database integration.
+- Data Modeling: Relational modeling, dimensional modeling, and data warehouse design.
+- Apache Spark: DataFrame operations, distributed processing, and performance fundamentals.
+- Pipeline Architecture: Data ingestion, transformation, orchestration, testing, and monitoring.
