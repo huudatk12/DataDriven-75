@@ -1,6 +1,7 @@
 Data Engineering Journey
 
 About
+
 I am a beginner freelancer Data Engineer building practical skills in data engineering through structured learning and hands-on project
 My goal is to develop the ability to design, build, test and maintain reliable data pipelines for real-world use cases.
 
